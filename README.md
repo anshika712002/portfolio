@@ -1,4 +1,3 @@
 # portfolio
-This is my first repository.
-<br>
-Author - Anshika Tyagi(student)
+This is my Portfolio which makes using HTML,CSS,JavaScript 
+
